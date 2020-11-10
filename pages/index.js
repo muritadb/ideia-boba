@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Home</div>   
+    return <div>pagina teste branch 2</div>   
 }
 
 export default Home
